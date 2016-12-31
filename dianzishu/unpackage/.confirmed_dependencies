@@ -1,0 +1,18 @@
+{
+	"index.html": {
+		"resources": [
+			"img/dataImg4.png",
+			"img/bookBg.png",
+			"img/dataImg3.png",
+			"img/dataImg1.png",
+			"js/jquery.min.js",
+			"css/book.css",
+			"img/dataImg2.png",
+			"img/bookRight.png",
+			"img/bookLeft.png",
+			"js/book.js",
+			"js/bootstrap.min.js",
+			"img/me.jpg"
+		]
+	}
+}

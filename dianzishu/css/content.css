@@ -1,0 +1,56 @@
+ul {list-style: none;padding: 0;margin: 0;}
+li {list-style-type: none;padding: 0;margin: 0;height: 33px;line-height: 33px;}
+.pi-wrapper , .aj-wrapper , .ps-wrapper , .hr-wrapper , .hb-wrapper , .ev-wrapper {
+		/*height: 200px;*/
+		width: 360px;
+		/*border: 1px solid greenyellow;*/
+		margin: 20px auto;
+}
+.pi-wrapper .pi-content {
+	display: inline;
+	float: left;
+	height: 170px;
+	/*border: 1px solid red;*/
+}
+.pi-wrapper .pi-a1 {
+	width: 85px;
+}
+.pi-wrapper .pi-a2 {
+	width: 120px;
+}
+.pi-wrapper .pi-a3 {
+	width: 108px;
+	/*border: 1px solid red;*/
+}
+.pi-wrapper .pi-a4 {
+	width: 48px;
+}
+.pi-wrapper .pi-a5 {
+	width: 110px;
+}		
+/*专业技能*/
+.wrapper-a3 {
+	height: 330px;
+	/*border: 1px solid red;*/
+}
+.ps-wrapper .ps-content {
+	display: inline; 
+	float: left; 
+	height: 140px;
+}
+.ps-wrapper .ps-a1 {
+	width: 100px;
+	/*border: 1px solid red;*/
+}
+.ps-wrapper .ps-a2 {
+	width: 128px;
+}
+.ps-wrapper .ps-a3 {
+	width: 62px;
+}
+.p-skill-p {
+	font-size: 13px;
+	text-indent: 2em;
+	line-height: 25px;
+}
+/*专业技能结束*/
